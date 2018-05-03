@@ -1,0 +1,21 @@
+PUZZLES:
+ 1. (y>>4)<<4 <= y 
+ 2. (x<<4)>>4 <= x 
+ 3. dx * dy == (double) (x*y) 
+ 4. ux == (unsigned) (float) ux 
+ 5. uy == (unsigned) (double) uy 
+ 6. x > y  implies  -x < -y 
+ 7. y * y * y * y >= 0 
+ 8. (int) (ux - uy) == (x-y) 
+ 9. x >= 0  implies  -x <= 0 
+ 10. x <= 0  implies  -x >= 0 
+ 11. y != 0 implies y != -y 
+ 12. ux >> 3 == ux/8 
+ 13. x >> 3 == x/8 
+ 14. dx * dx * dx * dx >= 0.0 
+ 15. x>0 and y>0 implies x*x + y+y > 0 
+INT_MAX: 2147483647 7FFFFFFF
+INT_MIN: -2147483648 80000000
+UINT_MAX: -1 FFFFFFFF
+Enter x and y: Problems Solved: 
+Number Solved: 0

@@ -1,0 +1,26 @@
+-8 1
+2147483647 -2147483648
+-134217729 -134217729
+-214783648 -214783648
+-2147483648 2147483647
+881173 881173
+0 -134217729
+1 -4
+0 0
+1 1
+-1 0
+
+
+1a. The fractional binary number stored for 22/7 is 11.001001001001001001001001001001001001001001001001001
+1b. The fractional binary number stored for 0x40490FDB is  01000000010010010000111111011011
+2a. The binary value of 30547/21600 is 1.0110101000001001110111000101100110000001010100111101
+2b. The binary value of 577/408 is 1.0110101000001010000010100000101000001010000010100001
+2c. The values are slightly too small.
+2d. 7.5 in binary is  111.100 and yes, this value cold be stored as a float
+2e. Largest odd float is 16777215
+    Largest odd double is 9007199254740993
+2f. Largest even float is 3.4 x 10^38
+    Largest even double is 1.8 x 10^308
+2g. Largest possible normalized double is 2^1023
+2h. Largest denormalized double is 2^-1022
+2i. Largest negative denormalized double is -2^-1074
